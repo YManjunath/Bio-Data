@@ -15,6 +15,7 @@ section:hover {
 
 .navbar {
   background: linear-gradient(to right, #2193b0, #6dd5ed) !important;
+  border-radius: 10px 10px 0 0;
 }
 
 .footer {
@@ -117,6 +118,10 @@ section:hover {
     font-size:30px !important;
   }
 
+  .card-body p {
+    font-size: 15px;
+  }
+
   .contact-details {
     display: flex;
     flex-direction: column;
@@ -128,5 +133,11 @@ section:hover {
     font-weight: bold;
   }
 
-  
+  .footer {
+    min-height: 30px !important;
+  }
+
+  .footer p {
+    font-size:15px;
+  }
 }
