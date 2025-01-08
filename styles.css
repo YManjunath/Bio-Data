@@ -46,8 +46,8 @@ section:hover {
 }
 
 #personal-details img {
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
   border-radius: 50%;
   object-fit: cover;
   margin-bottom: 15px;
@@ -120,6 +120,10 @@ section:hover {
 
   .card-body p {
     font-size: 15px;
+  }
+
+  .card-body img {
+
   }
 
   .contact-details {
