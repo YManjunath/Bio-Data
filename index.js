@@ -1,4 +1,9 @@
 const imagePath = [
+    'assets/IMG_9.JPG',
+    'assets/IMG_11.JPG',
+    'assets/IMG_12.JPG',
+    'assets/IMG_14.JPG',
+    'assets/IMG_13.JPG',
     'assets/IMG_4.JPG',
     'assets/IMG_6.JPG',
     'assets/IMG_5.JPG',
